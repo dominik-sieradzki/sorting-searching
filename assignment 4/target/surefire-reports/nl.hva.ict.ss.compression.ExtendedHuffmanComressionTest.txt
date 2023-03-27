@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nl.hva.ict.ss.compression.ExtendedHuffmanComressionTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.992 sec

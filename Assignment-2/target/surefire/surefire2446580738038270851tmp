@@ -1,0 +1,8 @@
+#surefire
+#Sat Mar 16 18:01:53 CET 2019
+maven.ext.class.path=C\:\\Program Files (x86)\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Dominik\\Desktop\\her s&s\\Assignment-2
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Dominik\\.m2\\repository
+basedir=C\:\\Users\\Dominik\\Desktop\\her s&s\\Assignment-2
+test=nl.hva.ict.ss.pathfinding.pathfinding.Demo

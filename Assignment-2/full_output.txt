@@ -1,0 +1,187 @@
+ID;Length Dijkstra;Length Floyd;Costs Dijkstra; Costs Floyd
+i1-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i1-dijkstra
+Dijkstra Time: 388320783
+i1-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i1-floyd
+Floyd Time: 1870884859
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i1;74;74;1248;1248
+Dijkstra Time: 5739513
+Floyd Time: 2094479239
+i2;-;-;-;-
+i3-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i3-dijkstra
+Dijkstra Time: 9047455
+i3-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i3-floyd
+Floyd Time: 3768797736
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i3;44;44;656;656
+i4-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i4-dijkstra
+Dijkstra Time: 8764149
+i4-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i4-floyd
+Floyd Time: 1249148268
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i4;108;108;1588;1588
+i5-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i5-dijkstra
+Dijkstra Time: 6574498
+i5-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i5-floyd
+Floyd Time: 245765232
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i5;32;32;348;348
+Dijkstra Time: 4946340
+Floyd Time: 3538941604
+i6;-;-;-;-
+i7-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i7-dijkstra
+Dijkstra Time: 7069431
+i7-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i7-floyd
+Floyd Time: 3613561668
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i7;54;54;982;982
+i8-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i8-dijkstra
+Dijkstra Time: 11044680
+i8-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i8-floyd
+Floyd Time: 1980329412
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i8;27;27;380;380
+i9-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i9-dijkstra
+Dijkstra Time: 8268363
+i9-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i9-floyd
+Floyd Time: 2881391085
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i9;79;79;910;910
+Dijkstra Time: 9294068
+Floyd Time: 4129393327
+i10;-;-;-;-
+i11-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i11-dijkstra
+Dijkstra Time: 7856630
+i11-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i11-floyd
+Floyd Time: 3423656417
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i11;52;52;600;600
+Dijkstra Time: 6471672
+Floyd Time: 2024787168
+i12;-;-;-;-
+i13-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i13-dijkstra
+Dijkstra Time: 8847775
+i13-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i13-floyd
+Floyd Time: 2152340712
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i13;224;224;2292;2292
+i14-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i14-dijkstra
+Dijkstra Time: 10101320
+i14-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i14-floyd
+Floyd Time: 3563989892
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i14;22;22;314;314
+i15-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i15-dijkstra
+Dijkstra Time: 8016203
+i15-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i15-floyd
+Floyd Time: 3414918723
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i15;34;34;376;376
+i16-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i16-dijkstra
+Dijkstra Time: 7941964
+i16-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i16-floyd
+Floyd Time: 3021859385
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i16;38;38;760;760
+i17-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i17-dijkstra
+Dijkstra Time: 7153057
+i17-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i17-floyd
+Floyd Time: 1045775301
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i17;178;178;1928;1928
+i18-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i18-dijkstra
+Dijkstra Time: 8069536
+i18-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i18-floyd
+Floyd Time: 3383892415
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i18;41;41;690;690
+i19-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i19-dijkstra
+Dijkstra Time: 7892896
+i19-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i19-floyd
+Floyd Time: 777541831
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i19;187;187;2486;2486
+i20-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i20-dijkstra
+Dijkstra Time: 7638177
+i20-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i20-floyd
+Floyd Time: 2278956870
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i20;53;53;792;792
+Dijkstra Time: 4293115
+Floyd Time: 2263424090
+i21;-;-;-;-
+i22-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i22-dijkstra
+Dijkstra Time: 10388467
+i22-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i22-floyd
+Floyd Time: 3612172443
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i22;41;42;566;566
+i23-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i23-dijkstra
+Dijkstra Time: 12360518
+i23-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i23-floyd
+Floyd Time: 3860751538
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i23;29;29;726;726
+i24-dijkstra
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i24-dijkstra
+Dijkstra Time: 8820896
+i24-floyd
+C:/Users/Dominik/Desktop/her s&s/Assignment-2/src/main/resources/output/i24-floyd
+Floyd Time: 3856609464
+Visited nodes (Dijkstra): 1200
+Visited nodes (Floyd): 1200
+i24;36;36;720;720
